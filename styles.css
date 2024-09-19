@@ -10,6 +10,11 @@
     background-color: red;
 }
 
+#githubLink {
+    margin-left: 40px;
+    padding: 20px -10px;
+}
+
 #potatoImg {
     height: 700px;
     width: 600px;
@@ -20,16 +25,23 @@
 }
 
 .description {
-    background-color: lightgray;
+    background-color: lightgray; 
 }
 
 .steps {
     background-color: blanchedalmond;
 }
 
+.ingredients, .description, .steps {
+    padding: 25px 0px;  
+}
+
 body {
     text-align: center;
     font-size: 30px;
+    margin: 0px 300px;
+    background-color: aliceblue;
+
 }
 
 .index {
@@ -47,10 +59,12 @@ ul {
 
 ol {
     list-style-position: inside;
+    
 }
 
 h2 {
     background-color: lightgreen;
+    border: solid 3px;
 }
 
 * {
