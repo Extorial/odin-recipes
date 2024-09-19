@@ -1,0 +1,58 @@
+#curry {
+    background-color: gold;
+}
+
+#potato {
+    background-color: burlywood;
+}
+
+#stir-fry {
+    background-color: red;
+}
+
+#potatoImg {
+    height: 700px;
+    width: 600px;
+}
+
+.ingredients {
+    background-color: lightblue;
+}
+
+.description {
+    background-color: lightgray;
+}
+
+.steps {
+    background-color: blanchedalmond;
+}
+
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+.index {
+    font-size: 20px;
+}
+
+img  {
+    height: 500px;
+    width: 700px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+h2 {
+    background-color: lightgreen;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
